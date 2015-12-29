@@ -21,4 +21,4 @@ class Solution:
             else:
                 pre = cur
             cur = cur.next
-        return dummy
+        return dummy.next
